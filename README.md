@@ -7,5 +7,6 @@ Bu repoda api'ye istek atılarak oluşturulmuştur. Javascript ile dinamik bir i
 - HTML, CSS, JavaScript
 
 # Ekran Kaydı
-https://github.com/cngkorkmaz/pokemon/assets/164249002/51615bad-98cb-4022-bfa1-a885385f4739
+![15 pokemon](https://github.com/cngkorkmaz/pokemon/assets/164249002/3fa6c898-bef0-4b28-b61e-3d89d339c89e)
+
 
